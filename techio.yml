@@ -1,4 +1,4 @@
-title: 'Connect 4: 2 players, with a special move'
+title: '9x9 Connect 4: 2 players, with a special move'
 plan:
 - title: Welcome
   statement: markdowns/welcome.md
